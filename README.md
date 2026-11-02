@@ -32,5 +32,7 @@ A Java program that helps League of Legends players analyze their matchmaking ex
 - docs/ - Design documents
 
 ## Documentation
+## Documentation
 - [Eisenhower Matrix](docs/eisenhower-matrix.pdf)
 - [System Diagram](docs/system-diagram.png)
+- [Editable System Diagram](docs/system-diagram.drawio)
